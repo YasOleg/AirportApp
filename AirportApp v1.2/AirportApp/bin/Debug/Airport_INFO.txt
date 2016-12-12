@@ -1,0 +1,7 @@
+Number flight,Arrival time,Departure time,Direction,Airline,Terminal,Flight status
+123A/22:30:00/05:30:45/London-Kiev/KievLineAir/A/check-in
+B1793/15:40:00/22:30:45/Kharkiv-Paris/FrenchAir/C/arrived
+C310/05:40:00/10:00:00/Lviv-Krakov/PolishAirLines/B/in flight
+007A/22:30:00/05:30:45/London-New York/BritishAirLines/D/unknown
+B1793/15:40:00/22:30:45/Dnipro-Budapest/UkrAir/C/gate closed
+C201/05:40:00/10:00:00/Kharkiv-Frankfurt/UkrAir/B/delayed
